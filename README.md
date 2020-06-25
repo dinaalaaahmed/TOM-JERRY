@@ -9,10 +9,10 @@ Tom:cat: tries to eat jerry:mouse2: as always, but jerry:mouse2: want to escape 
 
 # Video
  <video>
-  <source src="demo-video.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
 </video>
 
-# Run:
+# Run
 Open DOSBOX<hr>
 -mount c c: path of the project's folder<hr>
 -c:<hr>
